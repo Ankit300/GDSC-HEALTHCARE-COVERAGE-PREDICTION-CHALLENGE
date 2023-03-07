@@ -1,2 +1,2 @@
 # GDSC-HEALTHCARE-COVERAGE-PREDICTION-CHALLENGE
-It is a ML project. Here I have used Linear Regression to predict 'HEALTHCARE_COVERAGE' of a person based on other given features.
+It is a ML project. Here, I used linear regression to predict an individual's 'HEALTHCARE_COVERAGE' based on other given features.
